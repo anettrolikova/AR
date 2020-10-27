@@ -1,6 +1,25 @@
 DOTS = Data Orientedd Tech Stack
 
 DOTS enables you to take advantage of multicore processors to parallelize data processing 
-and increate the performance of Unity projects
+and increate the performance of Unity projects.
+
+DOTS - extension to the Unity engine. 
+
+DOTS - combination of technologies that work together to deliver a data oriented approach to coding in Unity. Data oriented coding.
+DOTS consists of: 
+1 - ESC Entity Component System (ECS) - provides framework using data oriented approach, it is distrtibuted through the Entities package. (You can add the Edittor through Package Manager). 
+2 - JOBS C# - provides simple method of generating multi-threaded code. It is disctrubuted through the Jobs package
+3 - BURST Burst Compiler - generates fast and optimized native code. Distributed through the Burst package, available in the Editor through the Package Manager.
+4 - Native containers - ESC data structures which provides control over memory
+
+- The 1-3 elements are referred as three pillars of DOTS. 
+- Separate packages
+- Together = foundation of delivering performant data oriented solutions
+
+- Using DOTS as ECS - way to structure and white code that can have separe info - behaviors from data
+- Allows arrange data in logical way 
+- ECS - provides a way to define how data is orgamised in memory amd how it is accessed by the CPU
+
+Project TIny is a lightweight version of Unity that provides DOTS for mobile devices 
 
 https://learn.unity.com/tutorial/what-is-dots-and-why-is-it-important?signup=true#5ef9fe55edbc2a002094eff1
