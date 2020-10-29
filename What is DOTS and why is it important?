@@ -20,6 +20,11 @@ DOTS consists of:
 - Allows arrange data in logical way 
 - ECS - provides a way to define how data is orgamised in memory amd how it is accessed by the CPU
 
-Project TIny is a lightweight version of Unity that provides DOTS for mobile devices 
+Project Tiny is a lightweight version of Unity that provides DOTS for mobile devices 
+
+DOTS is important feature in the development. It is extremely important as it is supporting Unity engine. 
+3D development has immersively moving but not in line of CPU neither memory performance. 
+DOTS is ensuring that the software architecture will make the best out of the hardware characteristics which DOTS can deliver.
+In short - DOTS is improving performance 
 
 https://learn.unity.com/tutorial/what-is-dots-and-why-is-it-important?signup=true#5ef9fe55edbc2a002094eff1
