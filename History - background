@@ -1,0 +1,17 @@
+First release in June 2005
+Develiped by Unity Technologies 
+
+Unity game engine aimed to "democratize" game development by making it accessible to more devsl 
+
+Facebook integrated software dev kit for games using Unity game engine in 2013. 
+This featured tools that allowed tracking advertising campaigns and deep linking, where users were directly linked from social media posts to specific portions within games, and easy in-game-image sharing.
+In 2016, Facebook developed a new PC gaming platform with Unity.
+Unity provided support for Facebook's gaming platforms, and Unity developers could more quickly export and publish games to Facebook.
+
+[WebGL](https://en.wikipedia.org/wiki/WebGL) JS API for rendering interactive 2D and 3D graphics within any compatible web browser without using plugins, 
+enabled Unity devs adding their games to any compatible Web browsers, without plug-ins req for players.
+
+In June 2020, Unity introduced the Mixed and Augmented Reality Studio (MARS), which provides developers with additional functionality for rules-based generation of augmented reality (AR) applications.
+
+
+Source: https://en.wikipedia.org/wiki/Unity_(game_engine)
