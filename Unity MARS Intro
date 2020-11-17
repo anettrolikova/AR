@@ -1,0 +1,29 @@
+Mixed and Augmented Reality (MR/AR) 
+
+MARS are fully responsive surronding physical space, work in any location and with any kind of data. 
+
+MARS gives creators author complex, data-oriented apps test their experiences without leaving the MARS authoring enviroment and deliver apps that are flexible and interact with the real world. 
+
+Unity MARS also brings sensors and envoroment data into the creative workflow. 
+Enables creators to deliver apps with runtime logic to adapt responsively to real-world conditions. 
+
+Unity MARS includes Starter templates which are Pre-Designed blocks cover popular AR use cases, training tutorial application that works with all of Unity environment templates. 
+
+The benefits of Unity MARS, as outlined by Unity, include:
+
+*WYSIWYG authoring experience* – Creators can author complex, data-oriented apps visually with a customized window for AR that includes tools and UI that give users the power to see, prototype, test, and visualize robust AR apps as they will run in the real world;
+
+*Intelligent real-world recognition* – The platform’s query system gives apps contextually relevant behavior based on a user’s surroundings. Any kind of data from any source can be used, including semantic object recognition, location data, map data, product data and more;
+
+*Responsive visual authoring* – Unity MARS’ procedural authoring system uses proxies to represent real-world objects, conditions, and actions as a framework;
+
+*Test in the Unity Editor* – AR experiences can be tested against a variety of examples of indoor and outdoor spaces without needing real-world data on hand or needing to physically test the experience in every real-world environment that creators want an app to work in;
+
+*Fuzzy authoring* – Creators can use “fuzzy authoring” to define minimum and maximum measurements for real-world objects rather than coding precise measurements;
+
+*Multiplatform AR dev framework* – Experiences can be built once and deployed across all AR platforms, including ARKit, ARCore, Magic Leap and Hololens devices, with AR Foundation. AR Foundation is the preferred method for bringing real-world understanding into Unity MARS.
+
+
+
+Source: https://www.auganix.org/unity-mars-augmented-and-mixed-reality-authoring-studio-now-available/
+Website: https://unity.com/products/unity-mars
