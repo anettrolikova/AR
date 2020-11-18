@@ -1,0 +1,20 @@
+Amazing quick reads for designing objects 
+https://designguidelines.withgoogle.com/ar-design/augmented-reality-design-guidelines/introduction.html
+
+Types of movement
+In AR experiences, there are four different ways that a user can move.
+Seated, with hands fixed
+Seated, with hands moving
+Standing still, with hands fixed
+Moving around in a real-world space
+
+For each user case, try to:
+Let users know what movements will trigger the app.
+Guide them through the types and range of movement possible.
+Make easy transitions from one pose or movement to another.
+Design for comfort. Try to avoid making the user do anything that’s physically demanding, uncomfortable, or too sudden.
+Try not to require movement until it’s necessary. Getting users to move is a great way to engage them, but let them ease into the experience.
+
+Realism of objects: https://designguidelines.withgoogle.com/ar-design/content/realism.html#realism-shadow-planes
+
+UX interaction: https://designguidelines.withgoogle.com/ar-design/interaction/ux.html#
